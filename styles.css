@@ -1,8 +1,10 @@
-h1 {color: purple; }
-p {color: black; }
-img {color: grey; }
+h1 {color: purple; text-align: center; }
+p {color: black; text-align: center; }
+img {color: grey; display: block; margin-left: auto; margin-right: auto; }
 body { background-color: lavender; }
 title { font: bold; }
 .purple { color: purple; }
 .background { background-color: lavender; }
 .margin { margin: 100px; }
+p1 {text-align: center; }
+ul li { display: inline-block; }
